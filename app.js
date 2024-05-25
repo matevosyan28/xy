@@ -2,6 +2,13 @@ let arr = ['','','','','','','','','',]
 
 let div = document.getElementById('div')
 
+
+
+
+
+
+
+
 let xo = true
 
 let box = () =>{
